@@ -1,0 +1,206 @@
+{
+  "billing": {
+    "description": "Questions about billing, payments, charges, refunds, invoices, and financial matters",
+    "examples": [
+      "billing issue",
+      "payment problem",
+      "refund request",
+      "charge inquiry",
+      "invoice question",
+      "payment failed",
+      "billing dispute",
+      "unexpected charge",
+      "payment methods",
+      "billing cycle"
+    ],
+    "priority": "high",
+    "escalation_required": false
+  },
+  "technical_support": {
+    "description": "Technical problems, troubleshooting, setup issues, software/hardware problems",
+    "examples": [
+      "not working",
+      "error message",
+      "setup help",
+      "technical problem",
+      "installation issues",
+      "software bug",
+      "device malfunction",
+      "troubleshooting",
+      "configuration help",
+      "system error"
+    ],
+    "priority": "high",
+    "escalation_required": true
+  },
+  "product_info": {
+    "description": "Questions about products, features, specifications, compatibility, and availability",
+    "examples": [
+      "product details",
+      "features",
+      "specifications",
+      "compatibility",
+      "product comparison",
+      "availability",
+      "product review",
+      "recommendations",
+      "product catalog",
+      "new products"
+    ],
+    "priority": "medium",
+    "escalation_required": false
+  },
+  "order_tracking": {
+    "description": "Order status, shipping, delivery questions, tracking information",
+    "examples": [
+      "track order",
+      "shipping status",
+      "delivery time",
+      "order status",
+      "where is my order",
+      "shipping confirmation",
+      "delivery address",
+      "order progress",
+      "estimated delivery",
+      "tracking number"
+    ],
+    "priority": "medium",
+    "escalation_required": false
+  },
+  "account_management": {
+    "description": "Account settings, password, profile changes, login issues, account security",
+    "examples": [
+      "change password",
+      "account settings",
+      "profile update",
+      "login issues",
+      "account security",
+      "two-factor authentication",
+      "account deletion",
+      "privacy settings",
+      "account verification",
+      "email preferences"
+    ],
+    "priority": "medium",
+    "escalation_required": false
+  },
+  "returns_exchanges": {
+    "description": "Return requests, exchange processes, return policy questions, refund status",
+    "examples": [
+      "return product",
+      "exchange item",
+      "return policy",
+      "refund status",
+      "return shipping",
+      "return label",
+      "defective product",
+      "wrong item received",
+      "return process",
+      "return authorization"
+    ],
+    "priority": "medium",
+    "escalation_required": false
+  },
+  "general_inquiry": {
+    "description": "General questions, business hours, contact information, company info",
+    "examples": [
+      "business hours",
+      "contact info",
+      "general question",
+      "help",
+      "company information",
+      "location",
+      "about us",
+      "services offered",
+      "careers",
+      "partnership"
+    ],
+    "priority": "low",
+    "escalation_required": false
+  },
+  "complaint": {
+    "description": "Customer complaints, dissatisfaction, service issues, negative feedback",
+    "examples": [
+      "complaint",
+      "unhappy",
+      "disappointed",
+      "problem with service",
+      "poor experience",
+      "dissatisfied",
+      "service issue",
+      "quality problem",
+      "customer service complaint",
+      "negative feedback"
+    ],
+    "priority": "high",
+    "escalation_required": true
+  },
+  "shipping_delivery": {
+    "description": "Shipping options, delivery preferences, shipping costs, delivery issues",
+    "examples": [
+      "shipping options",
+      "delivery time",
+      "shipping cost",
+      "express delivery",
+      "delivery address change",
+      "shipping methods",
+      "international shipping",
+      "delivery problems",
+      "missed delivery",
+      "shipping policy"
+    ],
+    "priority": "medium",
+    "escalation_required": false
+  },
+  "warranty_support": {
+    "description": "Warranty questions, coverage information, warranty claims, repair services",
+    "examples": [
+      "warranty information",
+      "warranty coverage",
+      "warranty claim",
+      "product guarantee",
+      "repair service",
+      "warranty period",
+      "extended warranty",
+      "warranty terms",
+      "manufacturer warranty",
+      "warranty registration"
+    ],
+    "priority": "medium",
+    "escalation_required": false
+  },
+  "cancellation": {
+    "description": "Order cancellation, service cancellation, subscription cancellation",
+    "examples": [
+      "cancel order",
+      "cancellation request",
+      "cancel subscription",
+      "stop service",
+      "cancel delivery",
+      "order cancellation",
+      "subscription cancellation",
+      "service termination",
+      "cancel account",
+      "stop billing"
+    ],
+    "priority": "medium",
+    "escalation_required": false
+  },
+  "urgent_issue": {
+    "description": "Urgent problems requiring immediate attention, security issues, emergencies",
+    "examples": [
+      "urgent",
+      "emergency",
+      "security issue",
+      "account hacked",
+      "fraud alert",
+      "immediate help",
+      "critical problem",
+      "urgent assistance",
+      "security breach",
+      "emergency support"
+    ],
+    "priority": "critical",
+    "escalation_required": true
+  }
+}
