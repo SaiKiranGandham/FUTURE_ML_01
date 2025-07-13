@@ -1,0 +1,131 @@
+{
+  "business_hours": {
+    "questions": [
+      "what are your business hours",
+      "when are you open",
+      "what time do you open",
+      "what time do you close",
+      "hours of operation",
+      "when can i call",
+      "support hours"
+    ],
+    "answer": "Our customer support is available Monday through Friday from 9:00 AM to 6:00 PM EST, and Saturday from 10:00 AM to 4:00 PM EST. We're closed on Sundays and major holidays. For urgent issues outside these hours, please email support@company.com and we'll respond within 24 hours.",
+    "category": "general"
+  },
+  "contact_info": {
+    "questions": [
+      "how can i contact you",
+      "contact information",
+      "phone number",
+      "email address",
+      "how to reach support",
+      "customer service number",
+      "support contact"
+    ],
+    "answer": "You can reach our support team in several ways:\n• Phone: 1-800-SUPPORT (1-800-787-7678)\n• Email: support@company.com\n• Live Chat: Available on our website during business hours\n• This AI Chatbot: Available 24/7 for immediate assistance\n• Social Media: @CompanySupport on Twitter for quick questions",
+    "category": "general"
+  },
+  "order_tracking": {
+    "questions": [
+      "how to track my order",
+      "track order",
+      "order status",
+      "where is my order",
+      "shipping status",
+      "delivery tracking",
+      "order progress"
+    ],
+    "answer": "To track your order:\n1. Log into your account on our website\n2. Navigate to 'My Orders' section\n3. Click on the specific order you want to track\n4. View real-time tracking information\n\nAlternatively, use the tracking number from your shipping confirmation email on our tracking page. If you need help locating your order information, please provide your order number.",
+    "category": "orders"
+  },
+  "return_policy": {
+    "questions": [
+      "return policy",
+      "how to return",
+      "refund policy",
+      "can i return this",
+      "exchange policy",
+      "return process",
+      "money back guarantee"
+    ],
+    "answer": "Our comprehensive return policy:\n• 30-day return window for most items\n• Items must be in original condition with packaging\n• Original receipt or order confirmation required\n• Free return shipping for defective items\n• Restocking fee may apply to some electronics\n• Digital products and personalized items are non-returnable\n• Refunds process within 5-7 business days\n\nStart your return through our online portal or contact support for assistance.",
+    "category": "returns"
+  },
+  "payment_methods": {
+    "questions": [
+      "what payment methods do you accept",
+      "payment options",
+      "can i pay with",
+      "accepted payment types",
+      "payment security",
+      "billing options"
+    ],
+    "answer": "We accept these secure payment methods:\n• Credit Cards: Visa, MasterCard, American Express, Discover\n• Debit Cards with major networks\n• PayPal and PayPal Credit\n• Apple Pay and Google Pay\n• Bank transfers for orders over $500\n• Corporate accounts with NET-30 terms\n\nAll transactions use 256-bit SSL encryption and PCI DSS compliance for your security.",
+    "category": "billing"
+  },
+  "shipping_info": {
+    "questions": [
+      "shipping information",
+      "how long does shipping take",
+      "shipping cost",
+      "delivery time",
+      "shipping options",
+      "expedited shipping",
+      "international shipping"
+    ],
+    "answer": "Shipping options and timeframes:\n• Standard Shipping: 5-7 business days ($5.99)\n• Express Shipping: 2-3 business days ($12.99)\n• Next Day Delivery: 1 business day ($19.99)\n• Free standard shipping on orders over $50\n• International shipping available to 50+ countries\n\nDelivery times exclude weekends and holidays. Rural areas may require additional time.",
+    "category": "shipping"
+  },
+  "password_reset": {
+    "questions": [
+      "forgot password",
+      "reset password",
+      "can't login",
+      "password reset",
+      "login problems",
+      "account access",
+      "forgotten credentials"
+    ],
+    "answer": "Password reset steps:\n1. Visit our login page\n2. Click 'Forgot Password?' link\n3. Enter your registered email address\n4. Check email for reset instructions (may take 5-10 minutes)\n5. Click the reset link and create a new secure password\n\nTips:\n• Check spam/junk folders if email doesn't arrive\n• Use a strong password with mixed characters\n• Contact support if you still can't access your account",
+    "category": "account"
+  },
+  "technical_support": {
+    "questions": [
+      "technical support",
+      "product not working",
+      "troubleshooting",
+      "setup help",
+      "installation issues",
+      "software problems",
+      "device help"
+    ],
+    "answer": "For technical support:\n1. Check our online knowledge base for common solutions\n2. Try basic troubleshooting (restart, check connections)\n3. Ensure you have the latest software/firmware updates\n4. Contact our technical support team at tech@company.com\n5. For urgent issues, call 1-800-TECH-HELP\n\nWhen contacting support, please have your product model, serial number, and error messages ready.",
+    "category": "technical"
+  },
+  "warranty_info": {
+    "questions": [
+      "warranty information",
+      "product warranty",
+      "warranty coverage",
+      "warranty claim",
+      "guarantee",
+      "warranty period",
+      "warranty repair"
+    ],
+    "answer": "Warranty coverage details:\n• Standard products: 1-year limited warranty\n• Premium products: 2-year extended warranty\n• Coverage includes manufacturing defects and hardware failures\n• Does not cover accidental damage or normal wear\n• Warranty service available through authorized repair centers\n• Extended warranty plans available for purchase\n\nTo file a warranty claim, contact support with your purchase date and product information.",
+    "category": "warranty"
+  },
+  "billing_questions": {
+    "questions": [
+      "billing question",
+      "charge on my card",
+      "payment issue",
+      "refund status",
+      "invoice",
+      "billing dispute",
+      "unexpected charge"
+    ],
+    "answer": "For billing inquiries:\n• View detailed billing history in your account dashboard\n• Download invoices and receipts anytime\n• Dispute charges within 60 days of statement\n• Refunds typically process within 5-7 business days\n• Payment failures may result in service suspension\n\nIf you see an unrecognized charge, please contact our billing department immediately at billing@company.com or call the number on your statement.",
+    "category": "billing"
+  }
+}
